@@ -6,7 +6,7 @@ como uma estrutura de computadores e dispositivos conectados atraves de um
 sistema de comunicacao com o objetivo de compartilharem informacoes e recursos entre si. 
 Tal sistema envolve meios de transmissao e protocolos.').
 
-definida_por('classificação de redes',
+definida_por('classificacao de redes',
 	'As principais sao: Rede Local - LAN, Rede Metropolitana - MAN, Rede de Longa Distancia - WAN, Rede Local Sem Fio - WLAN...').
 
 definida_por('roteador',
@@ -26,10 +26,10 @@ identicas, pois eles absorvem eletricamente os sinais e os retransmite pelo mesm
 	 
 definida_por('switch',
 	'È um elemento utilizado para interligar computadores e redes a fim de concentrar o
-cabeamento e permitir a conexão de redes de tipos diferentes.').
+cabeamento e permitir a conexao de redes de tipos diferentes.').
 	 
 definida_por('rede LAN',
-	'Uma rede de area local em computação consiste de uma rede de computadores 
+	'Uma rede de area local em computacao consiste de uma rede de computadores 
 utilizada na interconexao de equipamentos processadores, cuja finalidade e a troca de dados.').
 	 
 definida_por('rede MAN',
@@ -64,9 +64,9 @@ como condutor de elevado rendimento de luz, imagens ou impulsos codificados. Tem
 superior ao de um fio de cabelo humano.').
 
 definida_por('radiofrequencia',
-	'E um meio não fisico utilizado para transmitir informacoes. A este tipo de meio
+	'E um meio nao fisico utilizado para transmitir informacoes. A este tipo de meio
 convencionou-se chamar de wireless e as tecnologias mais conhecidas que desse se utilizam sao o
-telefone celular, wi-fi, wimax, satélite, infravermelho e bluetooth.').
+telefone celular, wi-fi, wimax, satelite, infravermelho e bluetooth.').
 
 definida_por('topologias de redes',
 	'Forma como as interfaces sao conectadas umas as outras. Essa caracteristica define o
@@ -94,4 +94,3 @@ todas as maquinas.').
 
 definida_por('exit',
 	'Te espero novamente para solucionar suas duvidas :) Fuuuuuui!').	
-	

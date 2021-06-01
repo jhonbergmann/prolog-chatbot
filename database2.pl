@@ -5,8 +5,8 @@ definida_por('ethernet',
 baseada no envio de pacotes. Ela define cabeamento e sinais eletricos para a camada fisica, 
 em formato de pacotes e protocolos para a subcamada de controle de acesso ao meio do modelo OSI.').
 
-definida_por('endereçamento ethernet e seus serviços',
-	'Em um nivel de abstração mais alto, pode-se dizer que a tecnologia ethernet oferece a 
+definida_por('enderecamento ethernet e seus servicos',
+	'Em um nivel de abstracao mais alto, pode-se dizer que a tecnologia ethernet oferece a 
 comunicacao entre equipamentos de uma mesma rede fisica sem o uso de conexões e com servicos:
 
 • Unicast, ou seja, um quadro ethernet vai para um destino unico. Analogamente, pode-se tomar como
@@ -36,7 +36,7 @@ definida_por('protocolo TCP/IP',
 	'O TCP/IP e um conjunto de protocolos de comunicacao entre computadores em rede. Seu nome vem de dois protocolos: o TCP e o IP.').
 	 
 definida_por('protocolos que constituem o TCP',
-	'Aplicação, apresentação, sessão, transporte, redes, enlace e física.').
+	'Aplicacao, apresentacao, sessao, transporte, redes, enlace e fisica.').
 	 
 definida_por('IGRP',
 	'Protocolo Interno de Distribuicao e um protocolo de distribuicao de dados do gateway dentro de uma complexa rede de computadores
@@ -46,7 +46,7 @@ definida_por('EIGRP',
 	'O EIGRP e um protocolo avancado de roteamento por vetor da distancia, desenvolvido primeiramente como um protocolo proprietario da Cisco.').
 	 
 definida_por('SMTP',
-	'Protocolo de Transferência de Correio Simples é o protocolo padrão de envio de mensagens de correio eletronico atraves da Internet entre 
+	'Protocolo de Transferência de Correio Simples e o protocolo padrao de envio de mensagens de correio eletronico atraves da Internet entre 
 dois dispositivos computacionais, definido na RFC 821.').
 	 
 definida_por('Telnet',
@@ -57,7 +57,7 @@ definida_por('FTP',
 	'Protocolo de Transferencia de Arquivos e um protocolo padrao/generico independente de hardware 
 sobre um modo de transferir arquivos/ficheiros e tambem e um programa de transferencia. ').
 
-definida_por('http',
+definida_por('HTTP',
 	'O Hypertext Transfer Protocol, sigla HTTP e um protocolo de comunicacao utilizado para sistemas de 
 informacao de hipermidia, distribuidos e colaborativos. Ele e a base para a comunicacao de dados da World Wide Web.').
 
@@ -72,10 +72,9 @@ Ele e um dos principais protocolos de padroes baseados em metodos de interconexa
 e foi a primeira versao implementada para a producao da ARPANET.').
 
 definida_por('ICMP',
-	'ICMP, sigla para o inglês Internet Control Message Protocol, é um protocolo integrante do Protocolo IP, 
-definido pelo RFC 792, é utilizado para comunicar informações da camada de rede, sendo o uso mais comum para 
-fornecer relatórios de erros à fonte original.').
+	'ICMP, sigla para o ingles Internet Control Message Protocol, e um protocolo integrante do Protocolo IP, 
+definido pelo RFC 792, e utilizado para comunicar informacoes da camada de rede, sendo o uso mais comum para 
+fornecer relatorios de erros a fonte original.').
 
 definida_por('exit',
 	'Te espero novamente para solucionar suas duvidas :) Fuuuuuui!').	
-	
