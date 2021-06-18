@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<p align="center">Perguntas e Resposta - Prolog</p>
+<p align="center">Pergunta e Resposta - Prolog</p>
 
 <p align="center"> 
    <img src="readme/gif.gif" alt="Demo" >
